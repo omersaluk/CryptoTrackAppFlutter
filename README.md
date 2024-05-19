@@ -1,16 +1,3 @@
-# track_app_flutter
-
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+CryptoTrack is a Flutter-based cryptocurrency portfolio app that uses the GetX package for state management and real-time updates. It fetches data from APIs to provide users with the latest prices, market trends, and portfolio performance. Easily track and manage your crypto investments with a sleek and intuitive interface.

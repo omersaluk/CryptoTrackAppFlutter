@@ -1,0 +1,2 @@
+final String CYRPTO_API_KEY =
+    "166cbdfca113b418a9fba451078349de07390c3f45e81614e1523e6f78e0";
